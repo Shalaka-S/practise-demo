@@ -1,3 +1,3 @@
 # practise-demo
-This is my first practise Git Repository
+This is my first practise Git Repository.
 Author - Shalaka Satish 
